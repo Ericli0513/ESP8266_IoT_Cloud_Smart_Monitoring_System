@@ -20,8 +20,8 @@ to achieve **bi-directional control** and **sensor data collection, storage, and
 
 ## 🧱 System Architecture｜系統架構圖
 ![MQTT V3 Bi-directional System Architecture](./pics/V3_MQTT_Bi-d_SystemArchitecture.png)  
-![MQTT Communication Architecture](./pics/MQTT_Architecture.png)  
-![Target Function Flow](./pics/TargetFunctionFlow.png)
+![MQTT Communication Architecture](./pics/MQTT_Architecture.PNG)  
+![Target Function Flow](./pics/TargetFunctionFlow.PNG)
 
 ---
 
