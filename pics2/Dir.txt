@@ -1,0 +1,13 @@
+MobileSnagshot_IoTFrontendWebpage.JPG
+MobileSnagshot_IoT_JWTTokenUSE_Webpage.JPG
+photo_HardwareSystem.JPG
+Screenshot_api_get_DHT22data.JPG
+Screenshot_api_get_LedControlPanel.JPG
+Screenshot_api_get_led_status.JPG
+Screenshot_historicalChart.JPG
+Screenshot_displayCard.JPG
+Screenshot_DjangoAdmin.JPG
+Screenshot_JWTledControl.JPG
+Screenshot_login.JPG
+
+
